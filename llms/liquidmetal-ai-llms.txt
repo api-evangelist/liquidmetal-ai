@@ -1,0 +1,13 @@
+# LiquidMetal AI
+
+> Yield control plane for AI factories. Static binary. No phone-home. No registration. No telemetry. Free up to one rack.
+
+LiquidMetal AI provides a yield control plane that continuously optimizes GPU utilization across AI factories. The product is a static binary — no phone-home, no registration, no telemetry. Free up to one rack.
+
+## Product
+
+- [LiquidMetal AI](https://liquidmetal.ai/) : Homepage with product overview and yield gap calculator
+
+## Contact
+
+- [contact@liquidmetal.ai](mailto:contact@liquidmetal.ai) : Find your yield gap — we'll quantify it in dollars per gigawatt
